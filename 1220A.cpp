@@ -13,6 +13,4 @@ int main() {
     cin >> s;
     for(auto i = count(begin(s), end(s), 'n'); i; --i) cout << "1 ";
     for(auto i = count(begin(s), end(s), 'z'); i; --i) cout << "0 ";
-
-    for
 }
